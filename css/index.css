@@ -22,6 +22,17 @@
   box-sizing: border-box;
   padding: 20px;
 }
+.modal .full-img{
+  width: 100%;
+  height: 100%;
+}
+.modal .exit{
+  cursor:pointer;
+  position: absolute;
+  top: 10px;
+  right: -40px;
+  width: 96px;
+}
 .modal .text .exit{
   text-align: right;
   cursor:pointer;

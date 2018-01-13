@@ -29,7 +29,7 @@ $(function(){
 
   var modelExit = $('.exit')
   modelExit.click(function(){
-    $(this).parent().parent().hide()
+    $(this).parent().hide()
   })
 
   var item = $('.main .item')
