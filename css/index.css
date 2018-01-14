@@ -94,6 +94,7 @@
   top: 0px;
   list-style-type: none;
   z-index: 999;
+  opacity: 0.6;
 }
 #menu ul {
   padding: 0px;
@@ -110,7 +111,7 @@
   font-size: 14px;
 }
 #menu a {
-  height: 92px;
+  height: 85px;
   padding-top: 20px;
   width: inherit;
   display: block;
@@ -121,7 +122,7 @@
   display: block;
   font-family: '方正清刻本悦宋简体';
    /* font-family: zh-cn,PingFang SC,Helvetica Neue,Helvetica,STHeitiSC-Light,Arial,sans-serif; */
-  font-size: 24px;
+  font-size: 20px;
 }
 
 #menu a span.info {
@@ -176,7 +177,7 @@
 }
 .show_menu .info {
   font-family: '方正清刻本悦宋简体';
-  font-size: 24px;
+  font-size: 20px;
   width: 100px;
   color: #fff;
   line-height: 50px;
